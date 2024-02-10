@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/codeyatri/static/css/main.78faa7ed.css",
+    "main.js": "/codeyatri/static/js/main.5b5330c1.js",
+    "index.html": "/codeyatri/index.html",
+    "main.78faa7ed.css.map": "/codeyatri/static/css/main.78faa7ed.css.map",
+    "main.5b5330c1.js.map": "/codeyatri/static/js/main.5b5330c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78faa7ed.css",
+    "static/js/main.5b5330c1.js"
+  ]
+}
